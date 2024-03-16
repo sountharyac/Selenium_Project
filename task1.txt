@@ -1,0 +1,4 @@
+task:
+
+clone project from github 
+create new folder in local and push to git
